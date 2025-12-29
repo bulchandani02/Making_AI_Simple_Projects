@@ -29,7 +29,7 @@ Each notebook has a "Open in Colab" button. No setup required.
 | Day | Colab Link |
 |-----|------------|
 | Day 12 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xp93Bm3IS2KT1YWSwqJ9z-SVbHBZcE3p?usp=sharing) |
-| Day 13 | [![Open In Colab](https://colab.research.google.com/drive/1fd0TNVdpcVxcdgt3HVCOR8jmtOd4OhAm?usp=sharinghttps://colab.research.google.com/drive/1fd0TNVdpcVxcdgt3HVCOR8jmtOd4OhAm?usp=sharing) |
+| Day 13 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fd0TNVdpcVxcdgt3HVCOR8jmtOd4OhAm?usp=sharing) |
 | Day 14 | Coming soon |
 | Day 15 | Coming soon |
 | Day 16 | Coming soon |
