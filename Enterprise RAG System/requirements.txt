@@ -1,0 +1,33 @@
+# Enterprise RAG System - Requirements
+# Making AI Simple | Days 12-18
+
+# Core LangChain
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-openai>=0.0.5
+langchain-text-splitters>=0.0.1
+
+# Vector Stores
+chromadb>=0.4.0
+pinecone-client>=3.0.0
+weaviate-client>=4.0.0
+qdrant-client>=1.7.0
+
+# Embeddings & Re-ranking
+sentence-transformers>=2.2.2
+openai>=1.0.0
+tiktoken>=0.5.0
+
+# BM25 and Hybrid Search (Day 13)
+rank-bm25>=0.2.2
+
+# ML Utilities
+scikit-learn>=1.3.0
+numpy>=1.24.0
+
+# LLM APIs (Day 14 - Advanced Retrieval)
+google-generativeai>=0.3.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0
